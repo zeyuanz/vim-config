@@ -9,6 +9,8 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 ## Need to manually install youcompleteme
 - go env need to be set (google)
-- try more times when something cannot be downloaded
+- try more times when something cannot be downloaded (try with proxy or no
+  proxy)
 
-## add zshrc file
+## Add zshrc file
+## Add terminal preview json file (install font first)
